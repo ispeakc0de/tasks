@@ -1,3 +1,3 @@
 # tasks
 
-- [] openebs pool container failure
+- [x] openebs pool container failure
