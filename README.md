@@ -2,7 +2,7 @@
 
 - [x] openebs pool container failure with mysql - 22- 23 mins
 - [x] openebs pool container failure with busybox - 27-28 mins
-- [ ] openebs pool pod failure with busybox
+- [x] openebs pool pod failure with busybox - 11 mins
 - [ ] openebs pool pod failure with mysql
 - [ ] openebs target pod failure cstor/mysql 
 - [ ] openebs target pod failure jiva/busybox
