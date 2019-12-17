@@ -4,7 +4,13 @@
 - [x] openebs pool container failure with busybox - 27-28 mins
 - [ ] openebs pool pod failure with busybox
 - [ ] openebs pool pod failure with mysql
-- [ ] openebs target pod failure
-- [ ] openebs target container failure
-- [ ] openebs nw delay failure
-- [ ] openebs nw loss failure
+- [ ] openebs target pod failure cstor/mysql 
+- [ ] openebs target pod failure jiva/busybox
+- [ ] openebs target pod failure containerd
+- [ ] openebs target container failure cstor/myql
+- [ ] openebs target container failure jiva/busybox
+- [ ] openebs target container failure containerd
+- [ ] openebs nw delay failure jiva
+- [ ] openebs nw delay failure cstor
+- [ ] openebs nw loss failure jiva
+- [ ] openebs nw loss failure cstor
