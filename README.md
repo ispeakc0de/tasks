@@ -7,7 +7,7 @@
 - [ ] openebs target pod failure cstor/mysql 
 - [ ] openebs target pod failure jiva/busybox
 - [ ] openebs target pod failure containerd
-- [ ] openebs target container failure cstor/myql
+- [x] openebs target container failure cstor/myql
 - [ ] openebs target container failure jiva/busybox
 - [ ] openebs target container failure containerd
 - [ ] openebs nw delay failure jiva
