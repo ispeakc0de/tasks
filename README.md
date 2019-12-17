@@ -1,6 +1,6 @@
 # tasks
 
-- [ ] openebs pool container failure with mysql
+- [x] openebs pool container failure with mysql - 15 to 16 mins
 - [ ] openebs pool container failure with busybox
 - [ ] openebs pool pod failure with busybox
 - [ ] openebs pool pod failure with mysql
