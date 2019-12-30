@@ -2,10 +2,10 @@
 
 <table> 
     <tr> <th colspan=2>   Pod Delete  </th> </tr>
-      <tr > <td rowspan=3> Litmus lib </tr> 
+    <tr > <td rowspan=3> Litmus lib  </td> 
         <td> kill_count == '' </td>
     </tr>
-    <tr> <td>
+    <tr> 
          <td> kill_count == 2 </td>
     </tr>
     <tr>
