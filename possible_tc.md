@@ -1,7 +1,7 @@
 ### Generic Experiements
 
 <table> 
-    <tr>  <th colspan=2> Pod Delete </th> </tr>
+    <tr colspan=2>  <th> Pod Delete </th> </tr>
      <tr > <td rowspan=3> Litmus lib </td> 
         <td> kill_count == '' </td>
          <td> kill_count == 2 </td>
