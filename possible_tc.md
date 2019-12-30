@@ -15,13 +15,12 @@
         <td> kill_count == '' </td>
     </tr>
     <tr> 
-         <td> kill_count == 2 </td>
+         <td> kill_count == 2 , not supported</td>
     </tr>
     <tr>
-         <td> kill_count == value > pod-list.size() </td>
+         <td> kill_count == value > pod-list.size(), , not supported </td>
     </tr> 
-        
-    </table>
+         </table>
     
         
     
