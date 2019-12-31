@@ -2,7 +2,7 @@
 
 
 
-<table ```css background-color:red ```> 
+<table> 
     <tr> <th colspan=2>   Pod Delete  </th> </tr>
     <tr > <td rowspan=3> Litmus lib  </td> 
         <td> kill_count == '' </td>
@@ -24,9 +24,8 @@
     </tr> 
          </table>
          
-  
-        
-  <br> <hr> <br>        
+ <br> <hr> <br>  
+ 
   <table> 
     <tr> <th colspan=2>   Container Kill  </th> </tr>
     <tr > <td rowspan=2> target_container  </td> 
