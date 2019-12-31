@@ -1,6 +1,6 @@
 ### Generic Experiements
 
-<table border=2 bgcolor="yellow" width="200"> 
+<table border=2 style="bgcolor:red;"> 
     <tr> <th colspan=2>   Pod Delete  </th> </tr>
     <tr > <td rowspan=3> Litmus lib  </td> 
         <td> kill_count == '' </td>
