@@ -1,6 +1,8 @@
 ### Generic Experiements
 
-<table bgcolor="red" > 
+```css
+
+<table > 
     <tr> <th colspan=2>   Pod Delete  </th> </tr>
     <tr > <td rowspan=3> Litmus lib  </td> 
         <td> kill_count == '' </td>
@@ -21,8 +23,11 @@
          <td> kill_count == value > pod-list.size(), , not supported </td>
     </tr> 
          </table>
-         <br> <hr> <br>
          
+ ```
+  
+        
+  <br> <hr> <br>        
   <table> 
     <tr> <th colspan=2>   Container Kill  </th> </tr>
     <tr > <td rowspan=2> target_container  </td> 
