@@ -59,7 +59,16 @@
          <td> provided auxiliary appinfo </td>
     </tr>
     
-    <br> <hr> <br>  
+    
+  <tr > <td rowspan=2> target container </td> 
+        <td> null string </td>
+    </tr>
+    <tr> 
+         <td> provided container name</td>
+    </tr>
+         </table>
+         
+         <br> <hr> <br>  
  
   <table> 
     <tr> <th colspan=2> pod network latency </th> </tr>
@@ -95,13 +104,6 @@
     </tr>
          </table>
     
-  <tr > <td rowspan=2> target container </td> 
-        <td> null string </td>
-    </tr>
-    <tr> 
-         <td> provided container name</td>
-    </tr>
-         </table>
     
         
     
