@@ -1,4 +1,4 @@
-##Stage 1 Week1 [ 6th jan to 13th jan ]
+##  Stage 1 Week1 [ 6th jan to 13th jan ]
 
 - Array , Matrix , Difference Array, String, Pointer
 
