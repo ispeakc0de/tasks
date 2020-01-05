@@ -119,23 +119,25 @@
    <br> <hr> <br>  
  
   <table> 
-    <tr> <th colspan=3> Diss Loss  </th> </tr>
+    <tr> <th colspan=4> Diss Loss  </th> </tr>
     <tr > <td rowspan=4> platform </td> 
         <td rowspan=2> GKE </td>
-         <td > axiliary appinfo = null </td>
+        <td rowspan=2> Auxiliary appinfo </td>
+         <td >  null string </td>
     </tr>
     <tr>
-         <td > axiliary appinfo = some value </td>
+         <td > some value </td>
     </tr>
     <tr> 
          <td rowspan=2> AWS </td>
-        <td > axiliary appinfo = null </td>
+        <td rowspan=2> Auxiliary appinfo </td>
+        <td > null string</td>
     </tr>
          <tr>
-         <td > axiliary appinfo = some value </td>
+         <td > some value </td>
     </tr>
     
-         </table>
+   </table>
          
     
     
