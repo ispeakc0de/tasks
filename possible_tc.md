@@ -116,6 +116,18 @@
     </tr>
          </table>
          
+   <br> <hr> <br>  
+ 
+  <table> 
+    <tr> <th colspan=2> Diss Loss  </th> </tr>
+    <tr > <td rowspan=2> platform </td> 
+        <td> GKE </td>
+    </tr>
+    <tr> 
+         <td> AWS </td>
+    </tr>
+         </table>
+         
     
     
         
