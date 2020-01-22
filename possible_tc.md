@@ -29,11 +29,9 @@
    <br> <hr> <br>  
  
   <table> 
-    <tr> <th colspan=2> Cpu Hog  </th> </tr>
-    <tr > <td rowspan=2> auxiliary appinfo </td> 
+    <tr> <th colspan=3> Cpu Hog  </th> </tr>
+    <tr > <td > auxiliary appinfo </td> 
         <td> null string </td>
-    </tr>
-    <tr> 
          <td> provided auxiliary appinfo </td>
     </tr>
          </table>
