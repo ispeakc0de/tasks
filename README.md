@@ -9,7 +9,7 @@
 - [ ] openebs target pod failure containerd
 - [x] openebs target container failure cstor/myql - 15 mins
 - [x] openebs target container failure jiva/busybox - 11 mins
-- [ ] openebs target container failure containerd
+- [x] openebs target container failure containerd
 - [ ] openebs nw delay failure jiva
 - [ ] openebs nw delay failure cstor
 - [ ] openebs nw loss failure jiva
