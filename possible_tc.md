@@ -5,12 +5,12 @@
 <table> 
     <tr> <th colspan=4>   Pod Delete  </th> </tr>
     <tr > <td> Litmus Lib  </td> 
-        <td> kill_count == "" </td> 
+        <td> kill_count == " " </td> 
          <td> kill_count == 2 </td>
          <td> kill_count == value > pod-list.size() </td>
     </tr> 
     <tr > <td> Powerfulseal Lib  </td> 
-        <td> kill_count == "" </td> 
+        <td> kill_count == " " </td> 
          <td> kill_count == 2 </td>
          <td> kill_count == value > pod-list.size() </td>
     </tr> 
