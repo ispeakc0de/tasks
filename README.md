@@ -15,6 +15,3 @@
 - [ ] openebs nw loss failure jiva
 - [ ] openebs nw loss failure cstor
 
-- spec.appinfo.appns :- PVC where the application is deployed
-- ruuner and job
-- kubectl describe chaosresult target-chaos-openebs-target-failure -n default
