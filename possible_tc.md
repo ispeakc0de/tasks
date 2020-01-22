@@ -20,8 +20,10 @@
  
   <table> 
     <tr> <th colspan=3>   Container Kill  </th> </tr>
-    <tr > <td > target_container  </td> 
+    <tr > <td rowspan=2> target_container  </td> 
         <td> null string </td>
+    </tr>
+    <tr>
          <td> name of container </td>
     </tr>
          </table>
@@ -30,8 +32,10 @@
  
   <table> 
     <tr> <th colspan=3> Cpu Hog  </th> </tr>
-    <tr > <td > auxiliary appinfo </td> 
+    <tr > <td rowspan=2> auxiliary appinfo </td> 
         <td> null string </td>
+         </tr>
+    <tr>
          <td> provided auxiliary appinfo </td>
     </tr>
          </table>
