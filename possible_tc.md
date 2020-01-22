@@ -19,11 +19,9 @@
  <br> <hr> <br>  
  
   <table> 
-    <tr> <th colspan=2>   Container Kill  </th> </tr>
-    <tr > <td rowspan=2> target_container  </td> 
+    <tr> <th colspan=3>   Container Kill  </th> </tr>
+    <tr > <td > target_container  </td> 
         <td> null string </td>
-    </tr>
-    <tr> 
          <td> name of container </td>
     </tr>
          </table>
